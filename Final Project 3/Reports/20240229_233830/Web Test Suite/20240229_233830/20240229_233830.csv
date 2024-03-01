@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Web Test Suite,,,,29-02-2024 23:38:41,29-02-2024 23:38:42,1.053s,PASSED
+,,,,,,,
+Test Cases/Web Test Case/Login Web,,,,29-02-2024 23:38:42,29-02-2024 23:38:42,0.572s,PASSED
+return null,,,,29-02-2024 23:38:42,29-02-2024 23:38:42,0.006s,PASSED

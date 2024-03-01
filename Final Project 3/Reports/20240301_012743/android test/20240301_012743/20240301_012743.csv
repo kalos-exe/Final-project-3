@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+android test,,,,01-03-2024 01:27:55,01-03-2024 01:29:17,1m - 22.119s,FAILED
+,,,,,,,
+Test Cases/Mobile Test Case/Login Mobile,,,,01-03-2024 01:29:14,01-03-2024 01:29:17,3.137s,FAILED
+"getDataUser = findTestData(""Data Files/Data user"")",,,,01-03-2024 01:29:14,01-03-2024 01:29:14,0.071s,PASSED
+"Username = getDataUser.getObjectValue(""Username"", 1)",,,,01-03-2024 01:29:14,01-03-2024 01:29:14,0.003s,PASSED
+"Password = getDataUser.getObjectValue(""Password"", 1)",,,,01-03-2024 01:29:14,01-03-2024 01:29:14,0.002s,PASSED
+"startExistingApplication(""app.ndtv.matahari"")",,,,01-03-2024 01:29:14,01-03-2024 01:29:17,2.994s,FAILED

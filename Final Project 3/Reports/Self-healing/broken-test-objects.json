@@ -1,0 +1,43 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Customer Login  matahari.com/div_32",
+      "brokenLocator": "(//div[@id\u003d\u0027option-label-size-558-item-16386\u0027])[14]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Rp 299,900\u0027])[5]/following::div[9]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Customer Login  matahari.com/div_Masuk",
+      "brokenLocator": "//body[@id\u003d\u0027html-body\u0027]/div[3]/header/div[2]/div[6]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Search\u0027])[3]/following::div[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Customer Login  matahari.com/div_Masuk_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Customer Login  matahari.com/div_32",
+      "brokenLocator": "(//div[@id\u003d\u0027option-label-size-558-item-16386\u0027])[14]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id \u003d \u0027option-label-size-558-item-16386\u0027 and (text() \u003d \u002732\u0027 or . \u003d \u002732\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/web matahari/a_Keranjang",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "//a[@onclick\u003d\"document.getElementsByClassName(\u0027klevu-fluid\u0027)[0].style.display \u003d \u0027none\u0027\"]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/web matahari/a_Keranjang_XPATH.png"
+    }
+  ]
+}

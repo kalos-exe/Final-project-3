@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="web test" time="90.541" tests="4" failures="0" errors="0">
+   <testsuite name="web test" tests="4" failures="0" errors="0" time="90.541" skipped="0" timestamp="01-03-2024T01:38:01" hostname="luki - DESKTOP-ILNNTN6" id="Test Suites/web test">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\luki\\Katalon Studio\\Final Project 3\\Reports\\20240301_013746\\web test\\20240301_013746"/>
+         <property name="logFiles" value="C:\\Users\\luki\\Katalon Studio\\Final Project 3\\Reports\\20240301_013746\\web test\\20240301_013746\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="luki - DESKTOP-ILNNTN6"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="9.3.0.212"/>
+         <property name="browser" value="Chrome 122.0.0.0"/>
+         <property name="hostAddress" value="192.168.1.9"/>
+         <property name="sessionId" value="a7dee5763af73e7ed6ac6675acd37122"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Web Test Case/Login Web" time="89.425" classname="Test Cases/Web Test Case/Login Web" status="PASSED">
+         <system-out><![CDATA[01-03-2024T01:38:02 - [TEST_CASE][PASSED] - Test Cases/Web Test Case/Login Web: Test Cases/Web Test Case/Login Web
+
+01-03-2024T01:38:03 - [TEST_STEP][PASSED] - getDataUser = findTestData("Data Files/Data user"): null
+
+01-03-2024T01:38:04 - [TEST_STEP][PASSED] - Username = getDataUser.getObjectValue("Username", 1): null
+
+01-03-2024T01:38:04 - [TEST_STEP][PASSED] - Password = getDataUser.getObjectValue("Password", 1): null
+
+01-03-2024T01:38:04 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+01-03-2024T01:38:05 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+01-03-2024T01:38:05 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+01-03-2024T01:38:10 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+01-03-2024T01:38:10 - [TEST_STEP][PASSED] - navigateToUrl("https://www.matahari.com"): Navigate to 'https://www.matahari.com' successfully
+
+01-03-2024T01:38:14 - [MESSAGE][PASSED] - Navigate to 'https://www.matahari.com' successfully
+
+01-03-2024T01:38:14 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/web matahari/div_Masuk")): Object: 'Object Repository/web matahari/div_Masuk' is clicked on
+
+01-03-2024T01:38:31 - [MESSAGE][PASSED] - Object: 'Object Repository/web matahari/div_Masuk' is clicked on
+
+01-03-2024T01:38:31 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/web matahari/inputUsername"), Username): Text 'fatihputra43@gmail.com' is set on object 'Object Repository/web matahari/inputUsername'
+
+01-03-2024T01:38:33 - [MESSAGE][PASSED] - Text 'fatihputra43@gmail.com' is set on object 'Object Repository/web matahari/inputUsername'
+
+01-03-2024T01:38:33 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/web matahari/inputPassword"), Password): Text '$qwerty$4321$' is set on object 'Object Repository/web matahari/inputPassword'
+
+01-03-2024T01:38:35 - [MESSAGE][PASSED] - Text '$qwerty$4321$' is set on object 'Object Repository/web matahari/inputPassword'
+
+01-03-2024T01:38:35 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/web matahari/button_Masuk")): Object: 'Object Repository/web matahari/button_Masuk' is clicked on
+
+01-03-2024T01:38:39 - [MESSAGE][PASSED] - Object: 'Object Repository/web matahari/button_Masuk' is clicked on
+
+01-03-2024T01:38:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/web matahari/span_CELANA PANJANG PRIA")): Object: 'Object Repository/web matahari/span_CELANA PANJANG PRIA' is clicked on
+
+01-03-2024T01:38:47 - [MESSAGE][PASSED] - Object: 'Object Repository/web matahari/span_CELANA PANJANG PRIA' is clicked on
+
+01-03-2024T01:38:47 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/web matahari/button_BELI")): Object: 'Object Repository/web matahari/button_BELI' is clicked on
+
+01-03-2024T01:38:52 - [MESSAGE][PASSED] - Object: 'Object Repository/web matahari/button_BELI' is clicked on
+
+01-03-2024T01:38:52 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/web matahari/div_32")): Object: 'Object Repository/web matahari/div_32' is clicked on
+
+01-03-2024T01:38:54 - [MESSAGE][PASSED] - Object: 'Object Repository/web matahari/div_32' is clicked on
+
+01-03-2024T01:38:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/web matahari/button_Belibarang")): Object: 'Object Repository/web matahari/button_Belibarang' is clicked on
+
+01-03-2024T01:38:55 - [MESSAGE][PASSED] - Object: 'Object Repository/web matahari/button_Belibarang' is clicked on
+
+01-03-2024T01:38:55 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/web matahari/a_Keranjang")): Object: 'Object Repository/web matahari/a_Keranjang' is clicked on
+
+01-03-2024T01:39:26 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: id("html-body")/div[@class="page-wrapper"]/header[@class="page-header"]/div[@class="header content"]/div[@class="minicart-wrapper"]/a[@class="action showcart"][count(. | //*[@class = 'action showcart']) = count(//*[@class = 'action showcart'])]'. Please recheck the objects properties to make sure the desired element is located. 
+
+01-03-2024T01:39:26 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/web matahari/a_Keranjang'. Try using Self-healing.
+
+01-03-2024T01:39:27 - [MESSAGE][INFO] - [SELF-HEALING] Screenshot: C:/Users/luki/Katalon Studio/Final Project 3/Reports/Self-healing/Object Repository/web matahari/a_Keranjang_XPATH.png
+
+01-03-2024T01:39:27 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/web matahari/a_Keranjang' was broken. Propose an alternative one: '//a[@onclick="document.getElementsByClassName('klevu-fluid')[0].style.display = 'none'"]'.
+
+01-03-2024T01:39:27 - [MESSAGE][PASSED] - Object: 'Object Repository/web matahari/a_Keranjang' is clicked on
+
+01-03-2024T01:39:27 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/web matahari/a_Lihat Keranjang")): Object: 'Object Repository/web matahari/a_Lihat Keranjang' is clicked on
+
+01-03-2024T01:39:31 - [MESSAGE][PASSED] - Object: 'Object Repository/web matahari/a_Lihat Keranjang' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Web Test Case/menu checkout web" time="0.433" classname="Test Cases/Web Test Case/menu checkout web" status="PASSED">
+         <system-out><![CDATA[01-03-2024T01:39:31 - [TEST_CASE][PASSED] - Test Cases/Web Test Case/menu checkout web: Test Cases/Web Test Case/menu checkout web
+
+01-03-2024T01:39:31 - [TEST_STEP][PASSED] - return null: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Web Test Case/pilih produk web" time="0.067" classname="Test Cases/Web Test Case/pilih produk web" status="PASSED">
+         <system-out><![CDATA[01-03-2024T01:39:31 - [TEST_CASE][PASSED] - Test Cases/Web Test Case/pilih produk web: Test Cases/Web Test Case/pilih produk web
+
+01-03-2024T01:39:31 - [TEST_STEP][PASSED] - return null: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Web Test Case/input data user web" time="0.03" classname="Test Cases/Web Test Case/input data user web" status="PASSED">
+         <system-out><![CDATA[01-03-2024T01:39:31 - [TEST_CASE][PASSED] - Test Cases/Web Test Case/input data user web: Test Cases/Web Test Case/input data user web
+
+01-03-2024T01:39:32 - [TEST_STEP][PASSED] - return null: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[01-03-2024T01:38:01 - [TEST_SUITE][PASSED] - web test: Test Cases/Web Test Case/input data user web]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

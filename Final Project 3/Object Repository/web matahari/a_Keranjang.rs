@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Keranjang</name>
+   <tag></tag>
+   <elementGuidId>17a02c5c-dabb-4c62-aa3a-32e1621e5b4a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick=&quot;document.getElementsByClassName('klevu-fluid')[0].style.display = 'none'&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.action.showcart</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>37fb9f03-5901-453a-b522-84aa0253dcce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>action showcart</value>
+      <webElementGuid>14c8469d-54b3-421a-b40a-8d8ba9cdc6ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>document.getElementsByClassName('klevu-fluid')[0].style.display = 'none'</value>
+      <webElementGuid>d0ac24b8-5e9e-45ad-b42b-a04017c36bfe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.matahari.com/checkout/cart/</value>
+      <webElementGuid>d9dc4a82-0dd5-4913-9860-0a50214aec44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>scope: 'minicart_content'</value>
+      <webElementGuid>e80f289f-cd89-4080-a8f7-2ee4d50043cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Keranjang 4 4items</value>
+      <webElementGuid>b830b43d-ee93-435d-a42e-2de0422e4b1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;html-body&quot;)/div[@class=&quot;page-wrapper&quot;]/header[@class=&quot;page-header&quot;]/div[@class=&quot;header content&quot;]/div[@class=&quot;minicart-wrapper&quot;]/a[@class=&quot;action showcart&quot;]</value>
+      <webElementGuid>27477927-d125-4552-beb5-b16c1727c1b4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick=&quot;document.getElementsByClassName('klevu-fluid')[0].style.display = 'none'&quot;]</value>
+      <webElementGuid>a0cc0bd8-504e-49e7-bba9-d63b55020d98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='html-body']/div[3]/header/div[2]/div/a</value>
+      <webElementGuid>4d82318c-bf6a-4034-b834-9ebfc631a6c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toggle Nav'])[1]/following::a[2]</value>
+      <webElementGuid>ff7d3716-b233-4917-966d-5f9bd2991c18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Belanja 299rb bisa dapat Gratis Ongkir sampai 10 September 2023!'])[1]/following::a[2]</value>
+      <webElementGuid>864c1aa0-eba9-4901-9878-e0707e3a448d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.matahari.com/checkout/cart/')]</value>
+      <webElementGuid>d6cb4693-9a9f-426f-9a40-c7446bac99ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a</value>
+      <webElementGuid>571ef089-de3d-4b4a-9bae-5e8d2b7cc0eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.matahari.com/checkout/cart/' and (text() = 'Keranjang 4 4items' or . = 'Keranjang 4 4items')]</value>
+      <webElementGuid>bda24a31-b40e-4b2a-a1c6-d8fa2cdb2c16</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

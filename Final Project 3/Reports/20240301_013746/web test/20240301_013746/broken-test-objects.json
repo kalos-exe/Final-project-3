@@ -1,0 +1,13 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/web matahari/a_Keranjang",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "//a[@onclick\u003d\"document.getElementsByClassName(\u0027klevu-fluid\u0027)[0].style.display \u003d \u0027none\u0027\"]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240301_013746/web test/20240301_013746/Object Repository/web matahari/a_Keranjang_XPATH.png"
+    }
+  ]
+}

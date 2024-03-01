@@ -1,0 +1,19 @@
+Jumlah pengguna atau user yang bersamaan menggunakan aplikasi. disimulasikan 5, 10, pengguna.beberapa eequest per detik
+
+Lalu lintas atau jumlah permintaan yang diterima oleh aplikasi dalam satu detik.
+Diuji dengan 50, 100, atau 200 RPS.
+
+Jumlah Data atau Ukuran Payload digunakan untuk mengukur bagaimana aplikasi menangani volume data yang berbeda.uang diuji dengan ukuran payload kecil, sedang, dan besar.
+
+Durasi atau waktu pengujian untuk menentukan berapa lama uji performa akan berlangsung.
+yang diuji selama 3 menit sampai 5 menit.
+
+Jumlah Koneksi untuk menentukan jumlah koneksi simultan atau utas yang dibuat ke server.
+diuji dengan 10 sampai 20 koneksi.
+
+Kecepatan Jaringan untuk mensimulasikan berbagai kecepatan jaringan yang mungkin dihadapi pengguna. dengan kecepatan jaringan lambat, sedang, dan cepat.
+
+Kondisi Jaringan yang Kurang Stabil bisa termasuk latency atau packet loss untuk mensimulasikan jaringan yang tidak stabil. diuji dengan latency 5ms, 10ms, atau 20ms.
+
+
+Beban Kerja Puncak ini mensimulasikan beban kerja tertinggi yang diharapkan pada suatu waktu. bisa diuji dengan beban kerja puncak.

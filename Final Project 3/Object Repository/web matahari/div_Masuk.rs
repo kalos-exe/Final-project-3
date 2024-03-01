@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Masuk</name>
+   <tag></tag>
+   <elementGuidId>495a158d-87de-4ee3-a7d5-a49616cdfc3c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='html-body']/div[3]/header/div[2]/div[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.icon-link.profil</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d4178fdd-34d0-4a01-b99a-5df43a7b68c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-link profil</value>
+      <webElementGuid>e41667ea-ae04-45ed-8904-d78cc6f2e1a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>scope: 'customer'</value>
+      <webElementGuid>f62dbfcf-fb12-4107-a579-89e2cd1a174a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Masuk</value>
+      <webElementGuid>649c71e4-be2e-4206-af99-49a81bcc7656</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;html-body&quot;)/div[@class=&quot;page-wrapper&quot;]/header[@class=&quot;page-header header-sticky&quot;]/div[@class=&quot;header content&quot;]/div[@class=&quot;icon-link profil&quot;]</value>
+      <webElementGuid>6a38b8bd-a96d-46fc-bf9e-7016673b9260</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='html-body']/div[3]/header/div[2]/div[6]</value>
+      <webElementGuid>f8afe29c-427c-41c1-81ec-b161c40244e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[3]/following::div[1]</value>
+      <webElementGuid>be8fafb3-248a-4f78-9007-57ec8632f07f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penelusuran Lanjutan'])[1]/following::div[2]</value>
+      <webElementGuid>302c06b6-8dc2-4c75-a7cf-e29f793ed844</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menu'])[1]/preceding::div[2]</value>
+      <webElementGuid>79dcade4-101d-49d1-bcc4-90211afd5f4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[6]</value>
+      <webElementGuid>2b09f0e9-7107-49d7-a23a-e2e825ad41ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Masuk' or . = ' Masuk')]</value>
+      <webElementGuid>1265ced0-2611-4632-9e98-391017bd50b8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

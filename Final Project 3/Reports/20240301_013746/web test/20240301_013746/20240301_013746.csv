@@ -1,0 +1,28 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+web test,Chrome 122.0.0.0,,,01-03-2024 01:38:01,01-03-2024 01:39:32,1m - 30.541s,PASSED
+,,,,,,,
+Test Cases/Web Test Case/Login Web,Chrome 122.0.0.0,,,01-03-2024 01:38:02,01-03-2024 01:39:31,1m - 29.425s,PASSED
+"getDataUser = findTestData(""Data Files/Data user"")",Chrome 122.0.0.0,,,01-03-2024 01:38:03,01-03-2024 01:38:04,1.510s,PASSED
+"Username = getDataUser.getObjectValue(""Username"", 1)",Chrome 122.0.0.0,,,01-03-2024 01:38:04,01-03-2024 01:38:04,0.136s,PASSED
+"Password = getDataUser.getObjectValue(""Password"", 1)",Chrome 122.0.0.0,,,01-03-2024 01:38:04,01-03-2024 01:38:04,0.018s,PASSED
+"openBrowser("""")",Chrome 122.0.0.0,,,01-03-2024 01:38:04,01-03-2024 01:38:10,5.595s,PASSED
+"navigateToUrl(""https://www.matahari.com"")",Chrome 122.0.0.0,,,01-03-2024 01:38:10,01-03-2024 01:38:14,3.981s,PASSED
+"click(findTestObject(""Object Repository/web matahari/div_Masuk""))",Chrome 122.0.0.0,,,01-03-2024 01:38:14,01-03-2024 01:38:31,16.694s,PASSED
+"setText(findTestObject(""Object Repository/web matahari/inputUsername""), Username)",Chrome 122.0.0.0,,,01-03-2024 01:38:31,01-03-2024 01:38:33,2.721s,PASSED
+"setText(findTestObject(""Object Repository/web matahari/inputPassword""), Password)",Chrome 122.0.0.0,,,01-03-2024 01:38:33,01-03-2024 01:38:35,1.457s,PASSED
+"click(findTestObject(""Object Repository/web matahari/button_Masuk""))",Chrome 122.0.0.0,,,01-03-2024 01:38:35,01-03-2024 01:38:39,4.360s,PASSED
+"click(findTestObject(""Object Repository/web matahari/span_CELANA PANJANG PRIA""))",Chrome 122.0.0.0,,,01-03-2024 01:38:39,01-03-2024 01:38:47,8.104s,PASSED
+"click(findTestObject(""Object Repository/web matahari/button_BELI""))",Chrome 122.0.0.0,,,01-03-2024 01:38:47,01-03-2024 01:38:52,4.829s,PASSED
+"click(findTestObject(""Object Repository/web matahari/div_32""))",Chrome 122.0.0.0,,,01-03-2024 01:38:52,01-03-2024 01:38:54,2.123s,PASSED
+"click(findTestObject(""Object Repository/web matahari/button_Belibarang""))",Chrome 122.0.0.0,,,01-03-2024 01:38:54,01-03-2024 01:38:55,0.592s,PASSED
+"click(findTestObject(""Object Repository/web matahari/a_Keranjang""))",Chrome 122.0.0.0,,,01-03-2024 01:38:55,01-03-2024 01:39:27,32.344s,PASSED
+"click(findTestObject(""Object Repository/web matahari/a_Lihat Keranjang""))",Chrome 122.0.0.0,,,01-03-2024 01:39:27,01-03-2024 01:39:31,3.838s,PASSED
+,,,,,,,
+Test Cases/Web Test Case/menu checkout web,Chrome 122.0.0.0,,,01-03-2024 01:39:31,01-03-2024 01:39:31,0.433s,PASSED
+return null,Chrome 122.0.0.0,,,01-03-2024 01:39:31,01-03-2024 01:39:31,0.001s,PASSED
+,,,,,,,
+Test Cases/Web Test Case/pilih produk web,Chrome 122.0.0.0,,,01-03-2024 01:39:31,01-03-2024 01:39:31,0.067s,PASSED
+return null,Chrome 122.0.0.0,,,01-03-2024 01:39:31,01-03-2024 01:39:31,0.002s,PASSED
+,,,,,,,
+Test Cases/Web Test Case/input data user web,Chrome 122.0.0.0,,,01-03-2024 01:39:31,01-03-2024 01:39:32,0.030s,PASSED
+return null,Chrome 122.0.0.0,,,01-03-2024 01:39:32,01-03-2024 01:39:32,0.005s,PASSED

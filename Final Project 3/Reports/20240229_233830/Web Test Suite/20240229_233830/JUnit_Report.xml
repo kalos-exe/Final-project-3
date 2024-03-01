@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Web Test Suite" time="1.053" tests="1" failures="0" errors="0">
+   <testsuite name="Web Test Suite" tests="1" failures="0" errors="0" time="1.053" skipped="0" timestamp="29-02-2024T23:38:41" hostname="luki - DESKTOP-ILNNTN6" id="Test Suites/Web Test Suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\luki\\Katalon Studio\\Final Project 3\\Reports\\20240229_233830\\Web Test Suite\\20240229_233830"/>
+         <property name="logFiles" value="C:\\Users\\luki\\Katalon Studio\\Final Project 3\\Reports\\20240229_233830\\Web Test Suite\\20240229_233830\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="luki - DESKTOP-ILNNTN6"/>
+         <property name="hostAddress" value="192.168.1.9"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="9.3.0.212"/>
+      </properties>
+      <testcase name="Test Cases/Web Test Case/Login Web" time="0.572" classname="Test Cases/Web Test Case/Login Web" status="PASSED">
+         <system-out><![CDATA[29-02-2024T23:38:42 - [TEST_CASE][PASSED] - Test Cases/Web Test Case/Login Web: Test Cases/Web Test Case/Login Web
+
+29-02-2024T23:38:42 - [TEST_STEP][PASSED] - return null: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[29-02-2024T23:38:41 - [TEST_SUITE][PASSED] - Web Test Suite: Test Cases/Web Test Case/Login Web]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
